@@ -526,7 +526,7 @@
                     <div class="ad-placeholder">
                         <div class="ad-icon">📢</div>
                         <p>Google AdSense Ad</p>
-                        <p>Ad Unit ID: ca-pub-0000000000000000</p>
+                        <p>Ad Unit ID: ca-app-pub-8123763654650570/3031344597
                     </div>
                 </div>
             </div>
